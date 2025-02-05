@@ -2,7 +2,7 @@
 
 A web application that retrieves and displays NASA's Astronomy Picture of the Day (APOD). Users can select a date, view the image or video for that day, and save their search history. Built with HTML, CSS, and JavaScript.
 
-![Demo Screenshot](./screenshot.png) <!-- Add a screenshot if available -->
+<!-- Add a screenshot if available -->
 
 ---
 
