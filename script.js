@@ -1,4 +1,4 @@
-const API_KEY = "fHN8YGLq84OsDes1Sng2dzOKu5D3t89s3d8TTayz"; // Replace with your NASA API key
+const API_KEY = "YOUR_API_KEY"; // Replace with your NASA API key
 const BASE_URL = "https://api.nasa.gov/planetary/apod";
 
 // DOM Elements
